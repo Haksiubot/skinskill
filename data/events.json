@@ -1,0 +1,1 @@
+[null,{"name":"Opis","temp":"","event-type":"1","_id":"DChRP","actions":[{"info":"4","storage":"1","varName2":"users-opis","name":"Store Bot Client Info"},{"activity":"2","nameText":"🔰 Uzytkownicy: ${tempVars(\"users-opis\")}","url":"","stat":"0","name":"Set Bot Activity"}]}]
